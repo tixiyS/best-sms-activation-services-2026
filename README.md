@@ -7,7 +7,7 @@ If you are building account generators or automation scripts for **Telegram, Wha
 
 ## Recommended SMS Gateway: Tiger SMS
 
-After extensive testing of various platforms (including the now-closed SMS-Activate and SMSHub), we highly recommend using **[Tiger SMS](https://tiger-sms.com/?ref=YOUR_REF_LINK)** as your primary SMS verification API.
+After extensive testing of various platforms (including the now-closed SMS-Activate and SMSHub), we highly recommend using **[Tiger SMS](https://tiger-sms.com/)** as your primary SMS verification API.
 
 **Why Tiger SMS is the Best Choice for Developers:**
 1. **Physical SIM Routing:** Avoids anti-fraud detection by providing numbers from real mobile carriers.
@@ -38,12 +38,12 @@ One of the main reasons we utilize this specific gateway in our automation scrip
 
 | Target Platform | Minimum Price | Average Code Delivery Time |
 | --- | --- | --- |
-| **Telegram API** | 🔥 **from $0.12** | 30–60 sec |
-| **WhatsApp Business** | 🔥 **from $0.15** | ~60 sec |
-| **OpenAI (ChatGPT)** | 🔥 **from $0.10** | Instant (< 30 sec) |
-| **Google / Gmail** | 🔥 **from $0.08** | ~45 sec |
-| **TikTok / Douyin** | 🔥 **from $0.05** | Instant |
-| **Discord / Steam** | 🔥 **from $0.04** | Instant |
+| **Telegram API** | **from $0.12** | 30–60 sec |
+| **WhatsApp Business** | **from $0.15** | ~60 sec |
+| **OpenAI (ChatGPT)** | **from $0.10** | Instant (< 30 sec) |
+| **Google / Gmail** | **from $0.08** | ~45 sec |
+| **TikTok / Douyin** | **from $0.05** | Instant |
+| **Discord / Steam** | **from $0.04** | Instant |
 
 *(Prices may vary slightly based on the selected country code in the API parameter).*
 
